@@ -18,7 +18,7 @@ dog's back.
 
 ### Header 3
 
-> This is a blockquote.
+> This is a blockquote. laptop version
 > 
 > This is the second paragraph in the blockquote.
 >
