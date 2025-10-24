@@ -26,8 +26,11 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
+# How to install
 
-here we make a further change 
+# Documentation
+Takes input and runs a variety of ciphers to produce output
 
+# Authors
+Zack Amos
 
-__here is a bad change__
